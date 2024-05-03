@@ -9,8 +9,6 @@ sky:
   alioss:
     endpoint: oss-cn-nanjing.aliyuncs.com
     bucket-name: javaweb-course
-    access-key-id: LTAI5tJu5vJJ2mK2Qsc8ZsGU
-    access-key-secret: nr8RBRWVcB2gPRXphbSJc9G4NpIc4O
   redis:
     host: localhost
     port: 6379
